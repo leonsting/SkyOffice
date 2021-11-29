@@ -61,7 +61,7 @@ export default class Preloader extends Phaser.Scene {
     const screenCenterX = this.cameras.main.worldView.x + this.cameras.main.width / 2
     const screenCenterY = this.cameras.main.worldView.y + this.cameras.main.height / 2
     this.add
-      .text(screenCenterX, screenCenterY - 100, 'SkyOffice')
+      .text(screenCenterX, screenCenterY - 100, 'Taverse')
       .setOrigin(0.5)
       .setFontSize(50)
       .setFontStyle('bold')

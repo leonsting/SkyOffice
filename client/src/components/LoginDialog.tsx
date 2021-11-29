@@ -96,7 +96,7 @@ export default function LoginDialog() {
 
   return (
     <Wrapper>
-      <Title>Welcome to SkyOffice</Title>
+      <Title>Welcome to Tuấn's Office</Title>
       <Content>
         <Left>
           <Swiper
